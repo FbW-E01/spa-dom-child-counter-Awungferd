@@ -6,7 +6,7 @@ What you need is to create your own JavaScript file and make sure it is included
 
 You can use Visual Code live server to run the project.
 
-## 1.
+## 1.  
 * Get the children of the element with id `wrapper` and print them to the console as a list.
 
 * Iterate over them and print their children to the console, as well as how many they are.
